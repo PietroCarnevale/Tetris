@@ -2,7 +2,7 @@ export const ROWS = 20;
 export const COLS = 10;
 export const SPEED = 300; // milisegundos por tick
 
-export const SCORES_API = "https://tetris25-api.onrender.com/ranking";
+export const SCORES_API = "https://tetris-rfge.onrender.com/ranking";
 
 export const SHAPES = {
     I: [
